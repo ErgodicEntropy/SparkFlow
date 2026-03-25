@@ -7,7 +7,7 @@ Meet **SparkFlow**, the friendly task manager designed to help you get things do
 2. **Start with Rewards**: It prioritizes tasks that are quick and rewarding to complete given the user's energy. These small wins give you a boost of confidence and motivation.
 3. **Builds Momentum**: Turns small successes into stepping stones for bigger achievements, creates a psychological safety net to reduce the fear of failure and helps you handle tougher tasks later.
 4. **Grows With You**: Gradually helps you take on more challenging tasks as you build confidence, gently nudges you toward slightly more challenging tasks, helping you grow without feeling pressured.
-5. **ADHD-Friendly**: Designed with techniques that work well for people who struggle with focus and energy management (Parkinson law, Pomodoro technique, Segmentation effect, Zeigarnik effect).
+5. **ADHD-Friendly**: Designed with techniques that work well for people who struggle with focus and energy management (Parkinson law, Pomodoro technique, Segmentation effect, Zeigarnik effect, and Cognitive Load theory).
 
 Inspired by *Martin Seligman’s theory on Learned Helplessness*, SparkFlow helps you break the cycle of feeling stuck. It encourages effort and smart task selection to build resilience and keep you moving forward
 
